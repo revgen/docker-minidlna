@@ -37,15 +37,3 @@ make build
 ```bash
 docker logs minidlna -f
 ```
-
-Launch docker container with minidlna:
-```bash
-
-```
-
-
-
-
-[minidlna-site]: 
-[minidlna-hub]: 
-[github-repo]: 
